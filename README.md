@@ -2,7 +2,9 @@
 This program is used to annotate each variant in the provided vcf file. The program is written in python 3.6, please make sure you have the right version installed.
 
 ## To run the code.
-On the command line run the following scripts.
+Run the following commands on a linux/Mac terminal.
+
+` git clone https://github.com/AishaniPrem/VariantAnnotation.git`
 
 `python3 Annotate.py -i ExampleInput.vcf -o ExampleOutput.csv`
 
